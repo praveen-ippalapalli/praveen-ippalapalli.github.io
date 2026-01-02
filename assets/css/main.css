@@ -528,6 +528,10 @@ section,
   position: relative;
 }
 
+.resume .section-title {
+  padding-bottom: 1rem;
+}
+
 .section-title h2 {
   font-size: 32px;
   font-weight: 700;
